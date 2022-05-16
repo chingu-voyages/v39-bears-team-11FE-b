@@ -51,7 +51,7 @@ try {
     $mail->Host = 'smtp.mail.yahoo.com';                  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'boselamo@yahoo.com';             // SMTP username
-    $mail->Password = 'lytzivxjfhihgzcs';                           // SMTP password
+    $mail->Password = '******************';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable SSL encryption, TLS also accepted with port 465
     $mail->Port = 465;                                    // TCP port to connect to
 
